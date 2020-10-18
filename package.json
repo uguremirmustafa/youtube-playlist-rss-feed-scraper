@@ -1,0 +1,17 @@
+{
+  "name": "youtube-playlist-rss-feed-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "uguremirmustafa",
+  "license": "MIT",
+  "description": "A small script to scrape youtube playlist rss feeds of a youtube channel with puppeteer."
+}
